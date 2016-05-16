@@ -1,5 +1,4 @@
 # hello-world
-tutorial
 
 Hi everyone!
 
